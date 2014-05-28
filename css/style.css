@@ -1,11 +1,3 @@
-﻿/* ============================================================================================== 
-This copyright notice must be kept untouched in the stylesheet at all times.
-The original version of this stylesheet and the associated (x)html 
-is available at http://www.script-tutorials.com/photo-gallery-with-angularjs-and-css3/
-Copyright (c) Script Tutorials. All rights reserved.
-This stylesheet and the associated (x)html may be modified in any way to fit your requirements.
-================================================================================================= */
-
 /* general settings */
 * {
     margin: 0;
@@ -19,8 +11,7 @@ html {
   width:100%;
 }
 body {
-  background-color:#e6e6e6;
-  color:#FFF;
+  background-color:#ff00ff;  color:#FFF;
   font-weight:100;
   margin:0;
   min-height:100%;
@@ -211,3 +202,5 @@ footer a, a:visited {
         width: 25px;
     }
 }
+
+?>
